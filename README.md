@@ -490,12 +490,6 @@ This project currently does not specify a separate open-source license in the re
 
 <div align="center">
 
-### **MATH QUEST**
-
-**Learn Mathematics. Complete Challenges. Level Up.**
-
-Built with Flutter & Supabase.
-
 <br />
 
 • MATH QUEST • AAYUSH RAHATE •
